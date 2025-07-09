@@ -28,3 +28,8 @@
 - **Exemplo de Agente**
   - Um assistente virtual como Siri ou Alexa que pode entender comandos falados, raciocinar por meio deles e executar tarefas como definir lembretes ou enviar mensagens.
   - Outro exemplo é um robô de atendimento ao cliente que pode responder perguntas, resolver problemas e encaminhar solicitações para humanos quando necessário.
+
+## O que são LLMs?
+
+> [!NOTE]
+> ...
